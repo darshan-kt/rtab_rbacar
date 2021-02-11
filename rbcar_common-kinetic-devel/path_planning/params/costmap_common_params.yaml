@@ -1,0 +1,15 @@
+#
+#
+
+footprint: [[-1.9,-0.60],[1.55,-0.60],[1.55,0.60],[-1.9,0.60]]
+footprint_padding: 0.05
+
+transform_tolerance: 5
+
+controller_patience: 2.0
+
+conservative_clear:
+  reset_distance: 1.00
+aggressive_clear:
+  reset_distance: 0.75
+
